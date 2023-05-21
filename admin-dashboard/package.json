@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@syncfusion/ej2-react-calendars": "^21.2.4",
-    "@syncfusion/ej2-react-charts": "^21.2.3",
+    "@syncfusion/ej2-react-charts": "^21.2.5",
     "@syncfusion/ej2-react-dropdowns": "^21.2.3",
     "@syncfusion/ej2-react-grids": "^21.2.3",
     "@syncfusion/ej2-react-inputs": "^21.2.4",
